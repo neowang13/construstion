@@ -114,3 +114,6 @@ ul li{
   margin-bottom:100px;
 }
 
+.bx-wrapper .bx-viewport {
+  border: none !important;
+}
