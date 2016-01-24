@@ -6,8 +6,8 @@ $(document).ready(function(){
 	  adaptiveHeight: true,
 	  mode: 'fade',
 	  height: '200',
-	  // auto: true,
-	  // pause: 1000,
+	  auto: true,
+	  pause: 1000,
 	});
 
 
